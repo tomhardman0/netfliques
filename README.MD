@@ -1,6 +1,6 @@
 ## Netfliques => [live on heroku](https://pure-plateau-13518.herokuapp.com/)
 
-An code test app to gather information from a blog, display it on page and allow a user to search it.
+A code test app to gather information from a blog, display it on page and allow a user to search it.
 
 First note: I had a personal time constraint of getting as far into the task as possible in roughly 2.5 hours. This is my best effort under those circumstances, I hope you can understand.
 
